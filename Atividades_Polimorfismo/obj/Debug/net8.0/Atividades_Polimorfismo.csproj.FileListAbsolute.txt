@@ -1,0 +1,15 @@
+F:\Estudos\BackEnd\CSharp\Atividades_Polimorfismo\bin\Debug\net8.0\Atividades_Polimorfismo.exe
+F:\Estudos\BackEnd\CSharp\Atividades_Polimorfismo\bin\Debug\net8.0\Atividades_Polimorfismo.deps.json
+F:\Estudos\BackEnd\CSharp\Atividades_Polimorfismo\bin\Debug\net8.0\Atividades_Polimorfismo.runtimeconfig.json
+F:\Estudos\BackEnd\CSharp\Atividades_Polimorfismo\bin\Debug\net8.0\Atividades_Polimorfismo.dll
+F:\Estudos\BackEnd\CSharp\Atividades_Polimorfismo\bin\Debug\net8.0\Atividades_Polimorfismo.pdb
+F:\Estudos\BackEnd\CSharp\Atividades_Polimorfismo\obj\Debug\net8.0\Atividades_Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+F:\Estudos\BackEnd\CSharp\Atividades_Polimorfismo\obj\Debug\net8.0\Atividades_Polimorfismo.AssemblyInfoInputs.cache
+F:\Estudos\BackEnd\CSharp\Atividades_Polimorfismo\obj\Debug\net8.0\Atividades_Polimorfismo.AssemblyInfo.cs
+F:\Estudos\BackEnd\CSharp\Atividades_Polimorfismo\obj\Debug\net8.0\Atividades_Polimorfismo.csproj.CoreCompileInputs.cache
+F:\Estudos\BackEnd\CSharp\Atividades_Polimorfismo\obj\Debug\net8.0\Atividades_Polimorfismo.sourcelink.json
+F:\Estudos\BackEnd\CSharp\Atividades_Polimorfismo\obj\Debug\net8.0\Atividades_Polimorfismo.dll
+F:\Estudos\BackEnd\CSharp\Atividades_Polimorfismo\obj\Debug\net8.0\refint\Atividades_Polimorfismo.dll
+F:\Estudos\BackEnd\CSharp\Atividades_Polimorfismo\obj\Debug\net8.0\Atividades_Polimorfismo.pdb
+F:\Estudos\BackEnd\CSharp\Atividades_Polimorfismo\obj\Debug\net8.0\Atividades_Polimorfismo.genruntimeconfig.cache
+F:\Estudos\BackEnd\CSharp\Atividades_Polimorfismo\obj\Debug\net8.0\ref\Atividades_Polimorfismo.dll
