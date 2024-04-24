@@ -14,7 +14,9 @@ void MenuPrincipal()
         case "1":
             Console.Write("Digite o valor do raio do circulo: ");
             double r = double.Parse(Console.ReadLine()!);
-            Console.WriteLine($"A area do cirulo é: {c.CalculandoArea(r):f1}");
+            c.CalculandoArea(new Circulo(r));
+            Console.WriteLine(c.ResumoCirculo);
+            //Console.WriteLine($"A area do cirulo é: {c.CalculandoArea(new Circulo(r)):f1}");
             VoltandoAoMenu();
             break;
         case "2":
@@ -22,7 +24,10 @@ void MenuPrincipal()
             double a = double.Parse(Console.ReadLine()!);
             Console.Write($"Digite o valor da largura do retangulo: ");
             double l = double.Parse(Console.ReadLine()!);
-            Console.WriteLine($"A area do retangulo é: {c.CalculandoArea(a,l):f1}");
+            c.CalculandoArea(new Retangulo(a,l));
+            Console.WriteLine(c.ResumoRetangulo);
+            
+            //Console.WriteLine($"A area do retangulo é: {c.CalculandoArea(new Retangulo(a,l)):f1}");
             VoltandoAoMenu();
             break;
         case "3":
@@ -32,7 +37,10 @@ void MenuPrincipal()
             double bMenor = double.Parse(Console.ReadLine()!);
             Console.Write($"Digite o valor da altura do trapezio: ");
             double al = double.Parse(Console.ReadLine()!);
-            Console.WriteLine($"A area do retangulo é: {c.CalculandoArea(bMaior,bMenor,al):f1}");
+            c.CalculandoArea(new Trapezio(bMaior,bMenor,al));
+            Console.WriteLine(c.ResumoTrapezio);
+             
+            //Console.WriteLine($"A area do retangulo é: {c.CalculandoArea(new Trapezio(bMaior,bMenor,al)):f1}");
             VoltandoAoMenu();
             break;
         default:
